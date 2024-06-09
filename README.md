@@ -1,13 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
-I wrote a web app using Django that I can use to showcase some of my software projects and to learn Django. I wanted to learn how use Django to make a web app that can query a database and. Upon arriving at the index, The user is directed to a homepage where they can see 3 of my projects and have the option to click a button to learn more. 
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
+I wrote a web app using Django that I can use to showcase some of my software projects and to learn Django. I wanted to learn how use Django to make a web app that can query a database and dynamically generate pages. Upon arriving at the index, The user is directed to a homepage where they can see 3 of my projects and have the option to click a button to learn more. 
 
 [Software Demo Video](https://www.loom.com/share/7303efc8477342a392833b20f635e8e2?sid=d4b4b9ef-e9b0-46d3-b748-deeaf4521575)
 
